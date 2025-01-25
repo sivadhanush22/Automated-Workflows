@@ -1,5 +1,8 @@
 # PostgreSQL-to-BigQuery DDL Generator
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
 ## Overview
 This script automates the generation of BigQuery DDL (Data Definition Language) statements from PostgreSQL table schemas. It supports customizable case transformations and data type mappings to ensure compatibility between PostgreSQL and BigQuery.
 
@@ -17,6 +20,3 @@ This script automates the generation of BigQuery DDL (Data Definition Language) 
 Install the library:
 ```bash
 pip install psycopg2
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
