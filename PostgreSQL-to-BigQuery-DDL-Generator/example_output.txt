@@ -1,0 +1,6 @@
+Generating DDL for the specified tables:
+DDL for table test:
+CREATE TABLE `tables_ods.TEST` (
+  Id NUMERIC,
+  Created_Ts DATETIME
+);
