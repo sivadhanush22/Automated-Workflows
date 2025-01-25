@@ -17,3 +17,6 @@ This script automates the generation of BigQuery DDL (Data Definition Language) 
 Install the library:
 ```bash
 pip install psycopg2
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
